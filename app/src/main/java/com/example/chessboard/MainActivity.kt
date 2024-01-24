@@ -332,9 +332,6 @@ fun ChessBoard( modifier: Modifier = Modifier) {
             }
         }
         Spacer(modifier=Modifier.height(150.dp))
-
-
-
     }
 }
 
